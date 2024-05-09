@@ -1,0 +1,71 @@
+body {
+    background: #ffffff;
+}
+header {
+    background-color: #fa0808;
+}
+h1 {
+     display: flex;
+     justify-content: center;
+     font-size: 18;
+     font-family: Arial, Helvetica, sans-serif;
+     color: #f90606;
+
+}
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 800px;
+    background-color: #515251;
+    border-radius: 50px;
+    gap: 30px;
+    border-color: #f44336;   
+}
+h2 {
+    padding-top: 60px;
+    color: rgb(250, 250, 9);
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 80px;
+    text-shadow: 5px 5px  #1d1d1d; 
+}
+.imagenes {
+    display: flex;
+    justify-content: center; /* Contar los iconos horizontalmente */
+}
+.icono {
+    width: 60px; /* Establece un ancho fijo para los iconos */
+    height: 60px; /* Establece una altura fija para los iconos */
+    margin: 5px; /* Agrega un margen entre los iconos */
+    border-radius: 45%; /* Aplica un borde redondeado para que los iconos se vean como circulos */
+    /* Agrega estilos según sean necesarios */
+
+}
+.input {
+    display: flex;
+    flex-direction: colunm;
+    align-items: center;
+}
+.error{
+    background-color: #f44336;
+    height: 50px;
+    width: 400px;
+}
+h3 { 
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;}
+
+
+
+    a {
+       color: blue; /* Cambia a tu color deseado */ 
+    }
+    /* Cambia el color del enlace cuando se coloca el mouse sobre el */
+    
+    a:hover {
+        color: red; /* Cambia a tu color deseado */
+    }

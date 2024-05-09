@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../PROYECTO CSS/css"
+		},
+		{
+			"path": "../PROYECTO CSS/imagenes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "KRONOS.BY"
+	}
+}
